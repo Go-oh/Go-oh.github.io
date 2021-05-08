@@ -18,13 +18,12 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Monos
-email: ejjoo7994@gmail.com
+title: Go-oh
+email: jfknfj920@naver.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Themed by ejjoo
 baseurl: ""
 url: "https://go-oh.github.io/"
-github_username: ejjoo
+github_username: Go-oh
 highlighter: rouge
 svg:
   optimize: true
